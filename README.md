@@ -1,2 +1,2 @@
-# HTML-CSS
-Aula HTML/CSS 18-09-2024
+# tipos-de-css
+Exercício sobre os tipos de CSS: inline, embutido e externo.
